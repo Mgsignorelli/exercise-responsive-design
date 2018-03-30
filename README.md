@@ -1,6 +1,6 @@
-#Responsive design 
+# Responsive design 
 
-##Simple colour squares exercise. 
+## Simple colour squares exercise. 
 
 
-###Changes from Mobile to Tablet to Desktop
+### Changes from Mobile to Tablet to Desktop
